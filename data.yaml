@@ -1,0 +1,5 @@
+train: D:/FYP/Datasets/solar_cell_EL_image/YOLO_dataset/images
+val: D:/FYP/Datasets/solar_cell_EL_image/YOLO_dataset/images
+
+nc: 3
+names: ['finger', 'crack', 'thick_line']
